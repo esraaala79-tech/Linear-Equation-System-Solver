@@ -15,7 +15,6 @@ This project demonstrates core **linear algebra concepts** and **matrix operatio
 - Interactive command-driven interface
 
 ---
-
 ## Input Format
 
 1. First line: number of equations `n`
