@@ -5,7 +5,6 @@ This project demonstrates core **linear algebra concepts** and **matrix operatio
 
 
 ## Features
-
 - Parse linear equations in standard algebraic format, e.g., `2x1 + 3x2 = 5`
 - Display equations and specific variable columns
 - Perform algebraic operations:
