@@ -3,7 +3,6 @@
 A C++ console program to **read, manipulate, and solve systems of linear equations** using **Cramer's Rule**.  
 This project demonstrates core **linear algebra concepts** and **matrix operations** in a simple command-line interface.
 
-
 ## Features
 - Parse linear equations in standard algebraic format, e.g., `2x1 + 3x2 = 5`
 - Display equations and specific variable columns
